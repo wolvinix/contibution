@@ -1,0 +1,19 @@
+{
+  "name": "contibution",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wolvinix/contibution.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wolvinix/contibution/issues"
+  },
+  "homepage": "https://github.com/wolvinix/contibution#readme",
+  "description": ""
+}
